@@ -225,7 +225,7 @@ a:visited {
   width: 100%;
   text-align: center;
 }
-@media only screen and (max-width: 910px) and (max-height: 410px) {
+@media only screen and (max-width: 914px) and (max-height: 412px) {
 
   .sidebar {
     flex-basis: 20rem;
